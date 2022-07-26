@@ -28,7 +28,8 @@ body{
     align-items: center;
 }
 hr{
-    color: var(--Light-grayish-blue);
+    border-color: transparent;
+    border-bottom-color: var(--Light-grayish-blue);
 }
 /* CARD */
 .card{
